@@ -1,0 +1,8 @@
+<configuration>
+    <input>
+        <net-file value="sumo_ns3_example.net.xml"/>
+        <route-files value="sumo_ns3_example.rou.xml"/>
+        <gui-settings-file value="simple_scenario.settings.xml"/>
+    </input>
+
+</configuration>
